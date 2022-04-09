@@ -10,13 +10,13 @@
 }
 
 body {
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    /* justify-content: center; */
     width: 100vw;
     height: 100vh;
     color: white;
     background-color: #101748;
-    overflow: auto;
+    /* overflow: auto; */
     /* background-color: #333; */
 }
 
@@ -47,10 +47,10 @@ body {
 }
 
 #svgDiv {
-    width: 100%;
-    margin: auto;
-    height: auto;
-    /* display: flex;
+    width: 60%;
+    /*margin: 0;
+    height: 30%;
+    display: flex;
     justify-content: center; */
     
 }

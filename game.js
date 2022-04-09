@@ -66,14 +66,12 @@ function showTextNode(textNodeIndex) {
         
     })
     } else if (textNode.type === 'final') {
-        textNodes.forEach(textNode => {
+         textNodes.forEach(textNode => {
             if (textNode.options) {
                 optionButtonsElement.innerHTML += `<div class="finalSceneNode">
                                                 <div class="finalText">${textNode.text}</div>
                                                 <div class="finalOptionsContainer">${printOptionsFinal(textNode.options)}</div>
-                                            </div>`;
-            
-            
+                                            </div>`;            
             }
         })
         
