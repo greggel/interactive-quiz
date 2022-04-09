@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 207.61 226.9" version="1.0">
+  <g id="layer1" transform="translate(-40 -45.382)">
+    <path id="path1872" d="m86.368 50.038a18.94 18.94 0 1 1 -37.881 0 18.94 18.94 0 1 1 37.881 0z" stroke-dasharray="1, 2" transform="matrix(1.0559 0 0 1.0559 -5.7431 12.545)"/>
+    <rect id="rect1874" rx="17.173" ry="17.173" height="114.7" width="48.992" stroke-dasharray="1, 2" y="87.667" x="40"/>
+    <rect id="rect1880" rx="14.647" ry="14.647" height="29.294" width="110.11" stroke-dasharray="1, 2" y="173.79" x="40.406"/>
+    <rect id="rect1884" rx="11.112" ry="11.112" height="92.934" width="22.223" stroke-dasharray="1, 2" y="179.35" x="128.29"/>
+    <rect id="rect1890" rx="7.8287" ry="7.8287" height="16.162" width="145.97" stroke-dasharray="1, 2" y="142.98" x="100.09"/>
+    <rect id="rect1892" rx="8.3554" ry="7.8287" height="14.647" width="37.881" stroke-dasharray="1, 2" y="127.04" x="108.09"/>
+    <rect id="rect1900" transform="rotate(44.49)" rx="10.376" ry="6.9961" height="15.152" width="64.65" stroke-dasharray="1, 2" y="6.8155" x="117.04"/>
+    <rect id="rect1906" rx="5.0508" ry="11.112" height="13.637" width="28.789" stroke-dasharray="1, 2" y="127.55" x="147.5"/>
+    <rect id="rect1910" rx="1.5152" ry="9.5964" height="9.5964" width="45.962" stroke-dasharray="1, 2" y="132.07" x="193.77"/>
+    <rect id="rect1912" rx="1.5152" ry="9.5964" height="17.422" width="18.183" stroke-dasharray="1, 2" y="118.94" x="208.5"/>
+    <rect id="rect1914" rx="1.5152" ry="9.5964" height="69.701" width="10.607" stroke-dasharray="1, 2" y="63.662" x="179.75"/>
+    <path id="path1938" d="m187.83 70.816l59.28 16.163v31.821l-58.77 8.58-0.51-56.564z" stroke="#000" stroke-width="1px" fill-rule="evenodd"/>
+    <rect id="rect2827" rx="1.5152" ry="9.5964" height="11.112" width="66.67" stroke-dasharray="1, 2" y="205.87" x="42.911"/>
+    <rect id="rect2829" rx="1.5152" ry="9.5964" height="60.104" width="11.617" stroke-dasharray="1, 2" y="211.43" x="70.226"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>LAN-Party pictogram</dc:title>
+        <dc:date>2008-05-23T12:18:33</dc:date>
+        <dc:description>A pictogram of a LAN-Party.</dc:description>
+        <dc:source>http://openclipart.org/detail/16905/lan-party-pictogram-by-katzenbaer</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Katzenbaer</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>people</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>sign</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

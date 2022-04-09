@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* display: flex;
+    justify-content: center; */
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background-color: #101748;
+    overflow: auto;
+    /* background-color: #333; */
+}
+
+.container {
+    width: 800px;
+    /* height: auto; */
+    margin: auto;
+    max-width: 85%;
+    padding: 3rem 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+    flex-direction: column;
+    
+    /* border: 2px solid black;
+    border-radius: 5px; */
+    /* box-shadow: 0 0 5px 2px; */
+}
+
+
+#text {
+    padding: 18px 0;
+    font-size: 22px;
+    width: 100%;
+    /* border-top: 2px solid white;
+    border-bottom: 2px solid white; */
+    /* background-color: #000104; */
+}
+
+#svgDiv {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    /* display: flex;
+    justify-content: center; */
+    
+}
+
+#option-buttons {
+    /* display: flex;
+    flex-direction: column; */
+    /* flex-wrap: wrap; */
+    padding: 10px 0;
+    /* border: 1px solid green; */
+    width: 100%;
+    /* height: 100%; */
+    
+    /* overflow: auto; */
+}
+
+.option-btn {
+    /* display: inline-block; */
+    outline: none;
+    margin-right: 12px;
+    font-size: 18px;
+    /* width: 180px; */
+    min-height: 40px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 10px;
+    border: none;
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    background-color: rgb(221,221,221, 0.5);
+    cursor: pointer;
+    
+}
+
+.finalText {
+    font-size: 20px;
+}
+
+.finalOption {
+    /* border: 1px solid green; */
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: rgb(221,221,221, 0.5);
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+
+.finalOption.selected {
+    /* background-color: pink;
+    display: inline; */
+    border: 2px solid #b30000;
+    background-color: rgb(179, 0, 0, 0.5);
+    color: white;
+}
+
+
+
+.option-btn.selected {
+    /* background-color: #43d8c9; */
+    color: #fff;
+    border: 2px solid #b30000;
+    background-color: rgb(179, 0, 0, 0.5);
+}
+
+.next {
+    /* display: none; */
+    font-size: 20px;
+    border: none;
+    margin: auto;
+    color: white;
+    width: 120px;
+    visibility: hidden;
+    outline: none;
+    padding: 16px;
+    margin-bottom: 20px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    background-color: #b30000;
+    align-self: center;
+    cursor: pointer;
+    transition: none;
+}
+
+.finalSceneNode {
+    border-bottom: gray dashed 2px;
+    padding: 10px 0;
+}
+
+.finalOptionsContainer {
+    padding: 12px 12px 0 12px;
+} 
+
+
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3px;
+    
+}
+
+li {
+    /* display: inline; */
+    font-size: 18px;
+    font-style: italic;
+    list-style: none;
+    /* background-color: yellow; */
+    margin-bottom: 5px;
+    color: white;
+    margin-right: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media all and (min-width: 1000px) {
+    .option-btn:hover {
+        /* color: black; */
+        border: 2px solid #b30000;
+        background-color: rgb(179, 0, 0, 0.5);
+        
+    }
+}
+
+
+
